@@ -8,5 +8,3 @@
 - 📫 How to reach me **eoaka024@gmail.com**
 
 - ⚡ Fun fact **I started programming when I was 12 years old..**
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/832273515700027472)](https://discord.com/users/832273515700027472)
