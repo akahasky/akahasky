@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akahasky&label=Profile%20views&color=0e75b6&style=flat" alt="akahasky" /> </p>
 
-- 👨‍💻 My projects are available at [github.com/akahasky](github.com/akahasky)
+- 👨‍💻 My projects are available at **https://github.com/akahasky**
 
 - 📫 How to reach me **eoaka024@gmail.com**
 
