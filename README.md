@@ -5,6 +5,6 @@
 
 - 👨‍💻 My projects are available at **https://github.com/akahasky**
 
-- 📫 How to reach me **eoaka024@gmail.com**
+  - 📫 How to reach me **akahasky (Discord)**
 
 - ⚡ Fun fact **I started programming when I was 12 years old..**
